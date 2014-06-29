@@ -35,6 +35,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zhangw/express-resource.git"
+    "url": "zhangw/express-resource"
   }
 }
