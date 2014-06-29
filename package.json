@@ -1,8 +1,8 @@
 {
   "name": "express-resource",
-  "description": "Resourceful routing for express",
+  "description": "Resourceful routing for express,and I forked from visionmedia/express-resource",
   "version": "1.0.0",
-  "homepage": "https://github.com/visionmedia/express-resource",
+  "homepage": "https://github.com/zhangw/express-resource",
   "author": "TJ Holowaychuk <tj@vision-media.ca>",
   "contributors": [
     {
@@ -35,6 +35,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/visionmedia/express-resource.git"
+    "url": "https://github.com/zhangw/express-resource.git"
   }
 }
